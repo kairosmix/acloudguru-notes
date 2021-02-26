@@ -41,4 +41,9 @@ Site reliability engineering
 peter senge
 "A learning organization is a group of people who are ccontinually enhancing their capabilities to create what they want to creat."
 
-  
+It is pretty hard to learn things when so much is thrown at you at once. 
+
+git remote add origin https://github.com/kairosmix/aws-learning.git
+git branch -M main
+
+git push -u origin main 
